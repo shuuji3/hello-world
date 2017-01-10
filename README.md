@@ -4,5 +4,5 @@ Repository for GitHub tutorial.
 ## What's this update?
 This is first edit of `README.md`.
 
-## pull-req
-another commit
+## emoji test
+:coffee: & :tea:
